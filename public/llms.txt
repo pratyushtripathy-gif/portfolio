@@ -1,0 +1,13 @@
+# Pratyush Tripathy
+
+> Personal portfolio of Pratyush Tripathy — Class 11 student, researcher, content writer and AI enthusiast based in Patna, India.
+
+Pratyush Tripathy is a student researcher with award-winning science projects, AI explorations, content writing samples and student leadership experience. This site collects his projects, achievements, services and contact information.
+
+## Pages
+
+- [Home](/): Portfolio with hero, about, education, achievements, skills, services, projects, work samples, leadership, testimonials and contact.
+
+## Guides
+
+- [AI in Smart Farming](/guides/ai-in-smart-farming): Technical guide on how AI can be used in smart farming, with the Smart Farm project as a case study.
